@@ -15,7 +15,7 @@ Screenshots:
 [ragdoll demo](images/ragdoll_down.PNG)
 
 Following are more demo videos:
-[How?](https://help.github.com/articles/about-readmes/#relative-links-and-image-paths-in-readme-files)
+https://youtu.be/rxRNQdu05hI
 
 ## What you learned
 
